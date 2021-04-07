@@ -7277,6 +7277,9 @@ body.hc-nav-open {
         font-size: 32px !important;
         line-height: 35px !important;
     }
+    section.hero-section.fl-hero {
+        height: 100vh;
+    }
 
 }
 @media only screen and (max-width: 765px) {
