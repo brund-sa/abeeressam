@@ -7366,7 +7366,13 @@ body.hc-nav-open {
 
 
 
-
+.beer-slider {
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    margin-bottom: 1.5rem;
+}
 
 
 
